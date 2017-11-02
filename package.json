@@ -1,5 +1,5 @@
 {
-  "name": "react-node",
+  "name": "react-node-component",
   "version": "0.0.1",
   "description": "A component to use in the react-tree module",
   "main": "build/index.js",
