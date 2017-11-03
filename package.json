@@ -1,6 +1,6 @@
 {
   "name": "react-node-component",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A component to use in the react-tree module",
   "main": "build/index.js",
   "peerDependencies": {
